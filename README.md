@@ -10,6 +10,10 @@ Também sou professora de sociologia, antropóloga e documentarista, amante do a
 * Sempre estudando React.js e CSS 
 
 <p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
+<p align="center">
   <img src="https://tenor.com/becUw.gif" width="350">
 </p>
 
