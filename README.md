@@ -9,11 +9,11 @@ Também sou professora de sociologia, antropóloga e documentarista, amante do a
 * Estudante de bootcamp integral fullstack web da Labenu
 * Sempre estudando React.js e CSS 
 
-<div class="tenor-gif-embed" data-postid="23743383" data-share-method="host" data-aspect-ratio="0.665625" data-width="100%"><a href="https://tenor.com/view/keyboard-aesthetic-keyboard-keyboard-aesthetic-rgb-lights-keeb-gif-23743383">Keyboard Aesthetic Keyboard GIF</a>from <a href="https://tenor.com/search/keyboard-gifs">Keyboard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-* Pronomes: ela/dela
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 * Adoradora de gatos 😻
+*  Pronomes: ela/dela
 #
 
   
