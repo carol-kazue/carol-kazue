@@ -8,8 +8,11 @@ Também sou professora de sociologia, antropóloga e documentarista, amante do a
 
 * Estudante de bootcamp integral fullstack web da Labenu
 * Sempre estudando React.js e CSS 
-* <p align="center">
+
+<p align="center">
   <img src="https://tenor.com/becUw.gif" width="350">
+</p>
+
 * Pronomes: ela/dela
 * Adoradora de gatos 😻
 #
