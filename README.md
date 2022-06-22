@@ -1,9 +1,9 @@
 ### Oiê 👋 
-#### me chamo Ana Carolina Kazue Inada
+#### Me chamo Ana Carolina Kazue Inada, sou desenvolvedora front end, caminhando para o full stack 🔭
+
+Também sou professora de sociologia, antropóloga e documentarista, amante do audiovisual 🎥 Fiz dois curtas
+
 #
-#### Sou desenvolvedora front end, caminhando para o full stack 🔭
-
-
 
 
 <div>
