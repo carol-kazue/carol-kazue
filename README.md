@@ -1,6 +1,7 @@
-### Hi 👋 me chamo Ana Carolina Kazue Inada
+### Oiê 👋 
+#### me chamo Ana Carolina Kazue Inada
 #
-
+#### Sou desenvolvedora front end, caminhando para o full stack 🔭
 <!--
 **carol-kazue/carol-kazue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
