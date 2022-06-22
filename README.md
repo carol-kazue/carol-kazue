@@ -4,7 +4,14 @@
 Também sou professora de sociologia, antropóloga e documentarista, amante do audiovisual 🎥 Fiz dois curtas
 
 #
+### Sobre mim 
 
+* Estudante de bootcamp integral fullstack web da Labenu
+* Sempre estudando React.js e CSS 
+<a helf ="https://tenor.com/becUw.gif">
+
+* Dei aula de sociologia 
+* 
 
 <div>
 <a href="https://github.com/carol-kazue">
