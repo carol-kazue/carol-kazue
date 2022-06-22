@@ -8,11 +8,14 @@ Também sou professora de sociologia, antropóloga e documentarista, amante do a
 
 * Estudante de bootcamp integral fullstack web da Labenu
 * Sempre estudando React.js e CSS 
-<a helf ="https://tenor.com/becUw.gif">
+* <p align="center">
+  <img src="https://tenor.com/becUw.gif" width="350">
+* Pronomes: ela/dela
+* Adoradora de gatos 😻
+#
 
-* Dei aula de sociologia 
-* 
-
+  
+  
 <div>
 <a href="https://github.com/carol-kazue">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-kazue&layout=compact&langs_count=7&theme=dracula"/>
